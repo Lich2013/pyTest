@@ -1,4 +1,8 @@
 #coding:utf-8
+
+# RSA
+
+
 p = 2053
 q = 2063
 n = p*q
@@ -26,3 +30,5 @@ for x in range(4):
     print("Secencode:" + str(SecCode[x]) + " origin " + str(DeMsg[x]))
 
 print('success, let me have a seat!')
+
+
