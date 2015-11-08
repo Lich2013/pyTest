@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #coding:utf-8
 #公钥私钥选取不够合理
 import base64
